@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A little bit about me
+subtitle: 🇧🇷🏳️‍🌈🖖Alola! Hi! 🤖 Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
 ---
 
 🇧🇷🏳️‍🌈🖖 Alola! Hi! :)
