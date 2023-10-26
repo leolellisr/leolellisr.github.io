@@ -40,13 +40,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "l261900@dac.unicamp.br"
 #  facebook: deanattali
   github: leolellisr
   twitter: leolellisr
 #  patreon: DeanAttali
-#  youtube: c/daattali
-  medium: leolellisr
+  youtube: c/leonardodelellisrossi5916
+#  medium: leolellisr
 #  reddit: yourname
   linkedin: leonardo-de-lellis-rossi-a5ba7ba3
 #  xing: yourname
@@ -61,12 +61,12 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-  google-scholar: uxgKKL8AAAAJ&hl
+  ORCID: 0000-0003-4607-1624
+  google-scholar: uxgKKL8AAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: 🇧🇷🏳️‍🌈🖖Alola! Hi! 🤖 Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
+# rss-description: 🇧🇷🏳️‍🌈🖖Alola! Hi! 🤖 Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
 
 # --- General options --- #
 
