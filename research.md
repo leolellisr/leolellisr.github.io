@@ -23,3 +23,5 @@ National educational robotics events in Brazil:
 
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
 
+
+- [webpage](https://robocup.org.br)

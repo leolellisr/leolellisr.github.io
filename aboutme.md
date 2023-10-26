@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 🇧🇷🏳️‍🌈🖖Alola! Hi! 🤖 Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
+subtitle: Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
 ---
 
 🇧🇷🏳️‍🌈🖖 Alola! Hi! :)
@@ -36,4 +36,6 @@ I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/
 
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org/)
 
-Feel free to reach out if you'd like to chat more about Cognitive Robotics, Artificial Intelligence, Machine Learning, or Deep Learning. You can find me on [GitHub](https://github.com/leolellisr/), [LinkedIn](https://www.linkedin.com/in/leonardo-de-lellis-rossi-a5ba7ba3/), or drop me an email at l261900@dac.unicamp.br. Let's connect and explore the fascinating world of AI and robotics together! 🤗🤖📚
+Feel free to reach out if you'd like to chat more about Cognitive Robotics, Artificial Intelligence, Machine Learning, or Deep Learning. You can find me on [GitHub](https://github.com/leolellisr/), [LinkedIn](https://www.linkedin.com/in/leonardo-de-lellis-rossi-a5ba7ba3/), or drop me an email at l261900@dac.unicamp.br.
+
+Let's connect and explore the fascinating world of AI and robotics together! 🤗🤖📚
