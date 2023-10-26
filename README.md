@@ -21,6 +21,7 @@ I am currently a PhD candidate in Electrical Engineering at the [Faculty of Elec
 
 🤖 My research areas involve Automation, Cognitive Robotics, Artificial Intelligence, Machine Learning, and Deep Learning.
 
+My Curriculum Lattes is [http://lattes.cnpq.br/7488267373775314](http://lattes.cnpq.br/7488267373775314).
 
 I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/wp/quem-somos/), helping to organize national educational robotics events in Brazil:
 * [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
