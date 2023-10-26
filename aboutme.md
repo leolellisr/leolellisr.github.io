@@ -38,6 +38,6 @@ I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/
 
 [#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
 
-Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning. You can find me on [GitHub](https://github.com/leolellisr/), [LinkedIn](https://www.linkedin.com/in/leonardo-de-lellis-rossi-a5ba7ba3/), or drop me an email at l261900@dac.unicamp.br.
+Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning.
 
 Let's connect and explore the fascinating world of AI and robotics together! 🤗🤖📚
