@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Work
 subtitle: test
 ---
 
@@ -14,6 +14,8 @@ Member of the Cognitive Architectures area at H.IAAC (Hub of Artificial Intellig
 - [webpage](https://hiaac.unicamp.br/)
 - [github](https://github.com/H-IAAC)
 
+
+# Events
 
 ## RoboCup Brasil
 

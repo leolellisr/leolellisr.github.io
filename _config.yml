@@ -15,7 +15,7 @@ author: leolellisr
 
 navbar-links:
   About Me: "aboutme"
-  Research:
+  Work:
     - Current Projects: "research"
     - Publications: "publications"
   Experience: "projects"
