@@ -34,4 +34,4 @@ I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/
 
 * [National Robotics Exhibition (MNR)](https://www.mnr.org.br)
 
-* [Brazilian Robotics Competition (CBR) / Latin Ameri
+* [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org/)
