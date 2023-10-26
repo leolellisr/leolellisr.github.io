@@ -17,6 +17,8 @@ Organization Team member - Anually organization of national educational robotics
 
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
 
+[#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
+
 ## II. FUNCAMP - Fundação de Desenvolvimento da Unicamp - Campinas/Brazil (2021-Now)
 
 * Robotics and Machine Learning Researcher;
