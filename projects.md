@@ -6,7 +6,7 @@ subtitle:
 
 # Experience
 
-##  RoboCup Federation - Brazil (2018-Now)
+##  I. RoboCup Federation - Brazil (2018-Now)
       
 * [webpage](https://robocup.org.br)      
 Organization Team member - Anually organization of national educational robotics events.
@@ -17,14 +17,14 @@ Organization Team member - Anually organization of national educational robotics
 
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
 
-## FUNCAMP - Fundação de Desenvolvimento da Unicamp - Campinas/Brazil (2021-Now)
+## II. FUNCAMP - Fundação de Desenvolvimento da Unicamp - Campinas/Brazil (2021-Now)
 
 * Robotics and Machine Learning Researcher;
 
-* Member of the Cognitive Architectures area at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)]](https://hiaac.unicamp.br/).
+* Member of the Cognitive Architectures area at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)](https://hiaac.unicamp.br/).
 
 
-## University of Campinas (Unicamp) - Campinas/Brazil (2022-2023)
+## III. University of Campinas (Unicamp) - Campinas/Brazil (2022-2023)
 
 PED-C Teaching Internship at the [Faculty of Electrical and Computer Engineering (FEEC) - State University of Campinas](https://fee.unicamp.br) in the disciplines:
 
@@ -32,7 +32,7 @@ PED-C Teaching Internship at the [Faculty of Electrical and Computer Engineering
 * Introduction to Computer Graphics for Image: Digital image processing · Machine learning · Deep learning · Computer vision; 
 * Image Analysis and Pattern Recognition: Digital image processing · Machine learning · Deep learning · Computer vision.
 
-## Lenscope - Campinas/Brazil (2020-2021)
+## IV. Lenscope - Campinas/Brazil (2020-2021)
 
 Machine Learning Specialist at [Lenscope](https://lenscope.com.br). Research and implementation of state-of-the-art Machine Learning, including areas such as computer vision and image processing;
 * Development of neural networks, machine learning and deep learning for facial recognition;
@@ -42,7 +42,7 @@ Machine Learning Specialist at [Lenscope](https://lenscope.com.br). Research and
 * Implementation of versioning tools, such as git, DVC and TensorBoard to monitor training and optimize computer vision models;
 * Development of web applications for the application of computer vision models in the wild.
 
-## São Paulo State University (Unesp) - Sorocaba/Brazil (2018-2021)
+## V. São Paulo State University (Unesp) - Sorocaba/Brazil (2018-2021)
 
 Robotics and Machine Learning Researcher at [São Paulo State University (Unesp)](https://sorocaba.unesp.br). Research Areas: 
 * Cognitive Robotics;
@@ -52,7 +52,7 @@ Robotics and Machine Learning Researcher at [São Paulo State University (Unesp)
 * Reinforcement Learning.
 
 
-## Fleury S. A. - São Paulo/Brazil (2017-2018)
+## VI. Fleury S. A. - São Paulo/Brazil (2017-2018)
 R&D Intern at [Fleury S. A.](https://www.grupofleury.com.br) .
 
 * Implementation of Big Data tools for spreadsheet automation and optimization;
