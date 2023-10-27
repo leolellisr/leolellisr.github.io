@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🇧🇷🏳️‍🌈🖖 About me
+title: 🖖 About me
 subtitle: Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
 ---
 
