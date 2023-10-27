@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Work
+title: 🕵🏻🤖 Work
 subtitle: test
 ---
 
-# Research
+# 🔬🕵🏻 Research
 
 ## HIAAC - Hub de Inteligência Artificial e Arquiteturas Cognitivas
 
@@ -15,7 +15,7 @@ Member of the Cognitive Architectures area at H.IAAC (Hub of Artificial Intellig
 - [github](https://github.com/H-IAAC)
 
 
-# Events
+# 🦾🤖 Events
 
 ## RoboCup Brasil
 
