@@ -7,9 +7,10 @@ subtitle:
 # Experience
 
 ##  I. RoboCup Federation - Brazil (2018-Now)
-      
+
+Organization Team member - Anually organization of national educational robotics events.     
+
 * [webpage](https://robocup.org.br)      
-Organization Team member - Anually organization of national educational robotics events.
 
 * [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
 
