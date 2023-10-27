@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apresentação
+title: About me
 cover-img: /assets/img/thumb.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/thumb.png
