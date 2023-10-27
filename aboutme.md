@@ -6,7 +6,7 @@ subtitle: Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018
 
 🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
 
-
+![](https://komarev.com/ghpvc/?username=leolellisr/leolellisr.github.io&label=Github+Page+Views&color=red)
 
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the [Institute of Science and Technology of Sorocaba (ICTS UNESP)](https://www.sorocaba.unesp.br). 
 
@@ -30,7 +30,7 @@ I am currently a PhD candidate in Electrical Engineering at the [Faculty of Elec
 My Curriculum Lattes is [http://lattes.cnpq.br/7488267373775314](http://lattes.cnpq.br/7488267373775314). 
 
 My [Github](https://github.com/leolellisr).
-![](https://komarev.com/ghpvc/?username=leolellisr&label=Github+Profile+Views)
+![](https://komarev.com/ghpvc/?username=leolellisr&label=Github+Profile+Views&color=red)
 
 I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/wp/quem-somos/), helping to organize national educational robotics events in Brazil:
 * [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
