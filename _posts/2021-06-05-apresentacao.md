@@ -7,7 +7,7 @@ share-img: /assets/img/thumb.png
 tags: [aboutme]
 ---
 
-### 🇧🇷🏳️‍🌈🖖 Alola! Hi! :)
+### 🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
 
 
 
