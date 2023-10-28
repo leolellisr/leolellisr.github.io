@@ -60,6 +60,6 @@ R&D Intern at [Fleury S. A.](https://www.grupofleury.com.br) .
 
 * Implementation of Big Data tools for spreadsheet automation and optimization;
 * Creation, development and programming of indicators using Business Intelligence tools;
-* Survey of data related to the R\&D sector and assistance in tasks of the administrative team.
+* Survey of data related to the R&D sector and assistance in tasks of the administrative team.
 
 

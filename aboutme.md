@@ -4,8 +4,9 @@ title: 🖖 About me
 subtitle: Robotics PhD. Candidate (UNICAMP), MSc. (UNESP 2021), Eng. (UNESP 2018).
 ---
 
-🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
+🇧🇷🏳️‍🌈🖖 
 
+[Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
 
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the [Institute of Science and Technology of Sorocaba (ICTS UNESP)](https://www.sorocaba.unesp.br). 
 
