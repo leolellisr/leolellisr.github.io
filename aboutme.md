@@ -42,4 +42,4 @@ I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/
 Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning.
 
 
-Let's connect and explore the fascinating world of AI and robotics together! 🤗🤖📚
+Let's connect and explore the fascinating world of AI and robotics together! 😁🖖🤖
