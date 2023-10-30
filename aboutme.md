@@ -39,7 +39,6 @@ I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/
 
 [#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
 
-Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning.
-
+Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning. My contact info are in the icons bellow.
 
 Let's connect and explore the fascinating world of AI and robotics together! 🖖😁🤖
