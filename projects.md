@@ -27,6 +27,10 @@ Organization Team member - Anually organization of national educational robotics
 * Member of the Cognitive Architectures area at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)](https://hiaac.unicamp.br/).
 
 
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/10oMXmbGDphLCk4LO8JjkqT2qnDOpHyaU/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+
+
 ## 👨🏻‍🏫 University of Campinas (Unicamp) - Campinas/Brazil (2022-2023)
 
 PED-C Teaching Internship at the [Faculty of Electrical and Computer Engineering (FEEC) - State University of Campinas](https://fee.unicamp.br) in the disciplines:
@@ -34,6 +38,12 @@ PED-C Teaching Internship at the [Faculty of Electrical and Computer Engineering
 * Software Engineering:  Docker · MongoDB · Node.js · HTML · Python · JavaScript ·  SQL;
 * Introduction to Computer Graphics for Image: Digital image processing · Machine learning · Deep learning · Computer vision; 
 * Image Analysis and Pattern Recognition: Digital image processing · Machine learning · Deep learning · Computer vision.
+
+
+<video width="100%" height="auto" controls>
+    <source src="_data/qualiPhD.mp4" type="video/mp4">
+    PhD Qualification Presentation - BR Portuguese
+</video>
 
 ## 👓 Lenscope - Campinas/Brazil (2020-2021)
 
