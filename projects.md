@@ -40,11 +40,6 @@ PED-C Teaching Internship at the [Faculty of Electrical and Computer Engineering
 * Image Analysis and Pattern Recognition: Digital image processing · Machine learning · Deep learning · Computer vision.
 
 
-<video width="100%" height="auto" controls>
-    <source src="_data/qualiPhD.mp4" type="video/mp4">
-    PhD Qualification Presentation - BR Portuguese
-</video>
-
 ## 👓 Lenscope - Campinas/Brazil (2020-2021)
 
 Machine Learning Specialist at [Lenscope](https://lenscope.com.br). Research and implementation of state-of-the-art Machine Learning, including areas such as computer vision and image processing;
