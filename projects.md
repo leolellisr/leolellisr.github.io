@@ -27,8 +27,9 @@ Organization Team member - Anually organization of national educational robotics
 * Member of the Cognitive Architectures area at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)](https://hiaac.unicamp.br/).
 
 
+<iframe id="drive-viewer-video-player-object-0" src="" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/10oMXmbGDphLCk4LO8JjkqT2qnDOpHyaU/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.googleapis.com/embed/?status=ok&amp;hl=pt_BR&amp;allow_embed=0&amp;ps=docs&amp;partnerid=30&amp;autoplay=0&amp;abd=0&amp;docid=10oMXmbGDphLCk4LO8JjkqT2qnDOpHyaU&amp;el=leaf&amp;title=Qualifica%C3%A7%C3%A3o_Doutorado.mp4&amp;BASE_URL=https%3A%2F%2Fdrive.google.com%2Fu%2F3%2F&amp;iurl=https%3A%2F%2Flh3.googleusercontent.com%2Fdrive-storage%2FANtge_EsnnbzxhzFywWT4MrDLagREToNzRHCpHARE4JaUKi0HkY54jSD1iB0wNSJ9hRMmRp_kZuLxCh4O-w8U50Ko5Aif6TFIG3Zw0DeSV3kiQ%3Ds512&amp;cc3_module=1&amp;reportabuseurl=https%3A%2F%2Fdrive.google.com%2Fu%2F3%2Fabuse%3Fauthuser%3D3%26id%3D10oMXmbGDphLCk4LO8JjkqT2qnDOpHyaU&amp;token=1&amp;plid=V0QXrfmK7bxw4g&amp;timestamp=1706294209945&amp;length_seconds=5220&amp;BASE_YT_URL=https%3A%2F%2Fdrive.google.com%2Fu%2F3%2F&amp;cc_load_policy=1&amp;authuser=3&amp;wmode=window&amp;override_hl=1&amp;enablecastapi=0&amp;pipable=1&amp;enablepostapi=1&amp;postid=drive-viewer-video-player-object-0&amp;origin=https%3A%2F%2Fdrive.google.com" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" allow="autoplay" title="Reprodutor de vídeos"></iframe>
 
 
 ## 👨🏻‍🏫 University of Campinas (Unicamp) - Campinas/Brazil (2022-2023)
