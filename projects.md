@@ -26,7 +26,7 @@ Organization Team member - Anually organization of national educational robotics
 
 * Member of the Cognitive Architectures area at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)](https://hiaac.unicamp.br/).
 
-* [PhD Qualification Presentation (PT-BR)](quali_video.md)
+* [PhD Qualification Presentation (PT-BR)](https://drive.google.com/file/d/10oMXmbGDphLCk4LO8JjkqT2qnDOpHyaU/view?usp=sharing)
 
 
 ## 👨🏻‍🏫 University of Campinas (Unicamp) - Campinas/Brazil (2022-2023)
