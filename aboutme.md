@@ -21,8 +21,10 @@ I am currently a PhD candidate in Electrical Engineering at the [Faculty of Elec
 
 💭 I'm member of the [Cognitive Architectures area](https://hiaac.unicamp.br/research-areas/arquiteturas-cognitivas/) at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)](https://hiaac.unicamp.br/students/), which aims the development and dissemination of technologies capable of integrating intelligence resources in mobile devices, making them able to take decisions. 
 
-♦️ Recently, we had some published papers related to Cognitive Architectures and Development Robotics: ["Piagetian experiments to DevRobotics"](https://doi.org/10.1016/j.cogsys.2023.101170).
+♦️ Recently, we had some published papers related to Cognitive Architectures and Development Robotics: 
+* ["Piagetian experiments to DevRobotics"](https://doi.org/10.1016/j.cogsys.2023.101170)
 
+* ["A Procedural Constructive Learning Mechanism with Deep Reinforcement Learning for Cognitive Agents"](https://doi.org/10.1007/s10846-024-02064-9)
 
 🤖 My research areas involve Automation, Cognitive Robotics, Artificial Intelligence, Machine Learning, and Deep Learning.
 
