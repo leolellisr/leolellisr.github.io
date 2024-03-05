@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Related Work
+title: Contact
 subtitle: 
 ---
 # Contact
