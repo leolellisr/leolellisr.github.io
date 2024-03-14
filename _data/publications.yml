@@ -1,3 +1,11 @@
+- date: 2024-02-23
+  type: journal
+  status: published
+  authors: Leonardo Rossi, Eric Rohmer, Paula Costa, Ricardo Gudwin, Alexandre Simões and Esther Colombini
+  title: "A Procedural Constructive Learning Mechanism with Deep Reinforcement Learning for Cognitive Agents"
+  journal: JINT Journal of Intelligent & Robotic Systems
+  doi: 10.1007/s10846-024-02064-9
+  
 - date: 2023-09-18
   type: journal
   status: published
