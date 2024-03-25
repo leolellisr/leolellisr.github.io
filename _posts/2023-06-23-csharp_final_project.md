@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repositor:y - C# Final Project (PT-BR)
+title: Repository - C# Final Project (PT-BR)
 cover-img: /assets/img/csharp.png
 thumbnail-img: /assets/img/csharp.png
 share-img: /assets/img/csharp.png
