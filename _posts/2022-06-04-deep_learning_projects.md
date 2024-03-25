@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Deep Learning Projects
+title: Repository - Deep Learning Projects
 cover-img: /assets/img/deep_learning_projects.png
 thumbnail-img: /assets/img/deep_learning_projects.png
 share-img: /assets/img/deep_learning_projects.png

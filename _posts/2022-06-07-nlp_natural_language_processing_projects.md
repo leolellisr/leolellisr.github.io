@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Natural Language Processing Projects
+title: Repository - Natural Language Processing Projects
 cover-img: /assets/img/nlp_natural_language_processing_projects.png
 thumbnail-img: /assets/img/nlp_natural_language_processing_projects.png
 share-img: /assets/img/nlp_natural_language_processing_projects.png

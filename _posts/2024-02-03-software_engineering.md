@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Software engineering 
+title: Repository - Software engineering 
 cover-img: /assets/img/software_engineering.png
 thumbnail-img: /assets/img/software_engineering.png
 share-img: /assets/img/software_engineering.png

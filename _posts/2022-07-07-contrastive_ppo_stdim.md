@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: PPO agent with contrastive learning algorithm ST-DIM
+title: Repository - PPO agent with contrastive learning algorithm ST-DIM
 cover-img: /assets/img/contrastive_ppo_stdim.png
 thumbnail-img: /assets/img/contrastive_ppo_stdim.png
 share-img: /assets/img/contrastive_ppo_stdim.png

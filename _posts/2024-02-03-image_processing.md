@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Image Processing
+title: Repository - Image Processing
 cover-img: /assets/img/image-processing.png
 thumbnail-img: /assets/img/image-processing.png
 share-img: /assets/img/image-processing.png

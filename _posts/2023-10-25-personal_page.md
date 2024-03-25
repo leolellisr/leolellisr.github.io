@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Personal Page
+title: Repository - Personal Page
 cover-img: /assets/img/avatar-icon-me.png
 thumbnail-img: /assets/img/avatar-icon-me.png
 share-img: /assets/img/avatar-icon-me.png

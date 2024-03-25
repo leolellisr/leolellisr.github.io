@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Docker Projects
+title: Repository - Docker Projects
 cover-img: /assets/img/docker_projects.png
 thumbnail-img: /assets/img/docker_projects.png
 share-img: /assets/img/docker_projects.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Querido Diário - Natural Language Processing Project
+title: Repository - Querido Diário - Natural Language Processing Project
 cover-img: /assets/img/open_knowledge_brasil_logo.png
 thumbnail-img: /assets/img/open_knowledge_brasil_logo.png
 share-img: /assets/img/open_knowledge_brasil_logo.png

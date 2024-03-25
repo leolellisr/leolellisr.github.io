@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: PhD project page - CogScore
+title: Repository - PhD project page - CogScore
 cover-img: /assets/img/cogscore.png
 thumbnail-img: /assets/img/cogscore.png
 share-img: /assets/img/cogscore.png

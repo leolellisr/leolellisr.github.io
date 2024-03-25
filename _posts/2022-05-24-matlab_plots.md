@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repository: Matlab 3D plots
+title: Repository - Matlab 3D plots
 cover-img: /assets/img/matlab_plots.png
 thumbnail-img: /assets/img/matlab_plots.png
 share-img: /assets/img/matlab_plots.png
