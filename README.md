@@ -1,3 +1,5 @@
+Welcome to my personal page repository on Github! This repository houses the code for my personal website, showcasing my projects, portfolio, and more.
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
