@@ -6,7 +6,7 @@ subtitle: test
 
 <div id="accordion">
   
-  <h1 id="pubs" class="panel">Publications</h1>
+  <h3 id="pubs" class="panel">Publications</h3>
   <div class="panel-content">
     {% include loop_publications.html %}
   </div>
