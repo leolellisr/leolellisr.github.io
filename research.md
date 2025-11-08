@@ -18,21 +18,5 @@ Member of the Cognitive Architectures area at H.IAAC (Hub of Artificial Intellig
 
 * [CST BabyBot Tutorial - ICDL-2025](https://h-iaac.github.io/cst-tutorial-babybot.github.io)
 
-# 🦾🤖 Events
-
-## RoboCup Brasil
-
-* [RoboCup Brasil webpage](https://robocup.org.br)
-
-National educational robotics events in Brazil:
-
-* [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
-
-* [National Robotics Exhibition (MNR)](https://www.mnr.org.br)
-
-* [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
-
-
-[#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
 
 

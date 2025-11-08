@@ -6,19 +6,6 @@ subtitle:
 
 # 🦾🤖 Experience
 
-##  🤖 RoboCup Federation - Brazil (2018-Now)
-
-Organization Team member - Anually organization of national educational robotics events.     
-
-* [webpage](https://robocup.org.br)      
-
-* [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
-
-* [National Robotics Exhibition (MNR)](https://www.mnr.org.br)
-
-* [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
-
-[#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
 
 ## 🕵🏻 FUNCAMP - Fundação de Desenvolvimento da Unicamp - Campinas/Brazil (2021-Now)
 
@@ -32,6 +19,26 @@ Organization Team member - Anually organization of national educational robotics
 
 * [CST BabyBot Tutorial - ICDL-2025](https://h-iaac.github.io/cst-tutorial-babybot.github.io)
 
+
+##  🤖 RoboCup Federation - Brazil (2018-2025)
+
+Events secretary - Anually organization of national educational robotics events.     
+
+* [webpage](https://robocup.org.br)      
+
+* [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
+
+* [National Robotics Exhibition (MNR)](https://www.mnr.org.br)
+
+* [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
+
+[#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
+
+### Organization of the world championships
+
+* 2014 - João Pessoa / PB
+
+* 2025 - Salvador / BA
 
 ## 👨🏻‍🏫 University of Campinas (Unicamp) - Campinas/Brazil (2022-2023)
 

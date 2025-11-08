@@ -25,15 +25,6 @@ My Curriculum Lattes is [http://lattes.cnpq.br/7488267373775314](http://lattes.c
 My [Github](https://github.com/leolellisr).
 ![](https://komarev.com/ghpvc/?username=leolellisr&label=Github+Profile+Views&color=red)
 
-I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/wp/quem-somos/), helping to organize national educational robotics events in Brazil:
-* [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
-
-* [National Robotics Exhibition (MNR)](https://www.mnr.org.br)
-
-* [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org/)
-
-[#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
-
 Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning. My contact info are in the icons at the footer of the page.
 
 Let's connect and explore the fascinating world of AI and robotics together! 🖖😁🤖
