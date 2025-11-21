@@ -27,4 +27,4 @@ My [Github](https://github.com/leolellisr).
 
 Feel free to reach out if you'd like to chat more about Robotics, Artificial Intelligence, Machine Learning, or Deep Learning. My contact info are in the icons at the footer of the page.
 
-Let's connect and explore the fascinating world of AI and robotics together! 🖖😁🤖
+Let's connect and explore the fascinating world of AI and robotics! 🖖😁🤖
