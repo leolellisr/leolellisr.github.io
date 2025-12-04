@@ -1,6 +1,30 @@
-- date: 2024-10-04
+- date: 2025-11-04
+  type: journal
+  status: published
+  authors: Leonardo L. Rossi, Letícia Berto, Paula P. Costa, Ricardo Gudwin, Esther Colombini and Alexandre Simões
+  title: "Dual or Unified: Optimizing Drive-Based Reinforcement Learning for Cognitive Autonomous Robots"
+  journal: Cognitive Systems Research
+  doi: 10.1016/j.cogsys.2025.101422
+
+- date: 2025-06-10
   type: conference
   status: accepted
+  authors: Leonardo L. Rossi, Paula P. Costa, Ricardo Gudwin, Esther Colombini and Alexandre Simões
+  title: "Dribble in the Mind: Exploring Causality with Cognitive Soccer Agents"
+  journal: 28th Robot World Cup
+  url: https://2025.robocup.org/symposium/
+  
+- date: 2024-10-04
+  type: conference
+  status: published
+  authors: Rossi, L.,  Souza, B., Lopes, M., Gudwin, R., Colombini, E.
+  title: "I Choose You, Reinforcement Learning! Trained RL Agents For Pokémon Battles"
+  journal: XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2024)
+  doi: 10.5753/sbgames_estendido.2024.241242
+  
+- date: 2024-10-04
+  type: conference
+  status: published
   authors: Rossi, L.,  Souza, B., Lopes, M., Gudwin, R., Colombini, E.
   title: "I Choose You, Reinforcement Learning! Trained RL Agents For Pokémon Battles"
   journal: XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2024)
