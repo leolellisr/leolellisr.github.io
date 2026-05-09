@@ -18,6 +18,8 @@ I am currently a PhD candidate in Electrical Engineering at the [Faculty of Elec
 
 💭 I'm member of the [Cognitive Architectures area](https://hiaac.unicamp.br/research-areas/arquiteturas-cognitivas/) at [H.IAAC (Hub of Artificial Intelligence and Cognitive Architectures)](https://hiaac.unicamp.br/students/), which aims the development and dissemination of technologies capable of integrating intelligence resources in mobile devices, making them able to take decisions. 
 
+👨🏻‍🏫 I am also Professor of Higher Education in the discipline of Natural Language Processing (NLP) in the Faculdade de Tecnologia de São Paulo - FATEC-SP.
+
 🤖 My research areas involve Automation, Cognitive Robotics, Artificial Intelligence, Machine Learning, and Deep Learning. Checkout our [publications](/publications/)!
 
 My Curriculum Lattes is [http://lattes.cnpq.br/7488267373775314](http://lattes.cnpq.br/7488267373775314). 

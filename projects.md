@@ -7,6 +7,23 @@ subtitle:
 # 🦾🤖 Experience
 
 
+## 👨🏻‍🏫 FATEC-SP - Faculdade de Tecnologia de São Paulo - Jundiai and Itatiba / Brazil (2026-Now)
+
+Professor of Natural Language Processing, focused on empowering students at the forefront of Artificial Intelligence and the Generative AI paradigm.
+
+Main Responsibilities and Taught Content:
+* Fundamentals of Deep Learning: Teaching basic architectures (MLP and Backpropagation) applied to text and the evolution from classical computer vision to neural models.
+
+* Text Representations and Tokenization: Implementation of modern techniques such as Byte-Pair Encoding (BPE) and dense Word Embeddings, as well as statistical baselines such as TF-IDF and Bag-of-Words for search systems.
+
+* Transformer Architectures: Exploration of the attention mechanism and state-of-the-art models, including Encoder-only (BERT/BERTimbau) and Decoder-only/Encoder-Decoder (T5 and GPT family).
+
+* Prompt Engineering: Instruction in advanced inference techniques, such as Zero-shot, Few-shot, and Chain-of-Thought (CoT), aimed at contextual learning and multi-step reasoning.
+
+* RAG Systems and Agents: Development of Retrieval-Augmented Generation (RAG) pipelines for knowledge anchoring and hallucination reduction in LLMs, as well as an introduction to the use of autonomous agents and external tools.
+
+* Infrastructure and Tools: Conducting hands-on labs using PyTorch (Datasets/DataLoaders), Hugging Face, and Google Colab for training and fine-tuning large-scale models.
+
 ## 🕵🏻 FUNCAMP - Fundação de Desenvolvimento da Unicamp - Campinas/Brazil (2021-Now)
 
 * Robotics and Machine Learning Researcher;
