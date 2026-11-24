@@ -1,4 +1,4 @@
-- date: 2025-11-04
+- date: 2026-01-01
   type: journal
   status: published
   authors: Leonardo L. Rossi, Letícia Berto, Paula P. Costa, Ricardo Gudwin, Esther Colombini and Alexandre Simões
@@ -8,10 +8,11 @@
 
 - date: 2025-06-10
   type: conference
-  status: accepted
+  status: published
   authors: Leonardo L. Rossi, Paula P. Costa, Ricardo Gudwin, Esther Colombini and Alexandre Simões
   title: "Dribble in the Mind: Exploring Causality with Cognitive Soccer Agents"
   journal: 28th Robot World Cup
+  doi: 10.1007/978-3-032-24870-1_14
   url: https://2025.robocup.org/symposium/
   
 - date: 2024-10-04
