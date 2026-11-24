@@ -1,3 +1,19 @@
+- date: 2026-09-18
+  type: conference
+  status: published
+  authors: Leonardo L. Rossi, Paula P. Costa, Alexandre Simões, Esther Colombini and Ricardo Gudwin
+  title: "Sperling-Inspired Evaluation of Sensory and Perceptual Abilities in Cognitive Architectures"
+  journal: 2026 IEEE International Conference on Development and Learning (ICDL), Kyoto, Japan
+  url: "https://attend.ieee.org/icdl-2026/program/detailed-program/#1785742165267-ad53f902-d38e"
+
+- date: 2026-09-15
+  type: workshop
+  status: published
+  authors: Leonardo de Lellis Rossi, Esther Luna Colombini and Ricardo Ribeiro Gudwin
+  title: "CogScore: Developmental Cognitive Benchmarks for Embodied Cognitive Architectures"
+  journal: AI.CogDev Workshop (ICDL 2026), Kyoto, Japan
+  url: "https://sites.google.com/view/aicogdev-workshop/icdl-2026?authuser=0&pli=1"
+
 - date: 2026-01-01
   type: journal
   status: published

@@ -32,6 +32,8 @@ Main Responsibilities and Taught Content:
 
 * My doctoral research focused on the development of an online playground for evaluating cognitive architectures. More info in the project site: ["CogScore - An Online Evaluation Playground For Cognitive Architectures With Developmental Robotics"](https://leolellisr.github.io/cogscore.github.io/).
 
+* [PhD Thesis Defense Presentation](https://drive.google.com/file/d/1dcJkxyKrCv-Fz0QzLHP--E2ACbZZchrd/view?usp=sharing)
+
 * [PhD Qualification Presentation (PT-BR)](https://drive.google.com/file/d/10oMXmbGDphLCk4LO8JjkqT2qnDOpHyaU/view?usp=sharing)
 
 * [CST BabyBot Tutorial - ICDL-2025](https://h-iaac.github.io/cst-tutorial-babybot.github.io)
